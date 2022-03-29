@@ -14,10 +14,14 @@ user-4  Account-head    Billing Report
 
 # Task 1: Create 3 Groups and attach  3 different policies
 
+Step 1: Create a group, named S3-support and during creation assign S3Readonly policy
+Step 2: Create another group, named EC2-support and attached EC2 read only policy
+Step 3: Create another group, named EC2-admin and attached EC2fullaccess policy
 
 
 # Task 2: Create 3 users that can fit into the three groups you created
 
-
+Step 1: From the root user account, under the management console, locate IAM (a global service)
+Step 2: On the left hand panel, click on user and then, create user 
 
 # Task 3: Test your set up

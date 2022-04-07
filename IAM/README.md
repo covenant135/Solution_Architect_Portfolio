@@ -25,3 +25,8 @@ Step 1: From the root user account, under the management console, locate IAM (a 
 Step 2: On the left hand panel, click on user and then, create user 
 
 # Task 3: Test your set up
+Remember
+You will have to login with IAM username and password.
+
+
+Thanks for following 

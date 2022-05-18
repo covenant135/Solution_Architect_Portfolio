@@ -67,7 +67,7 @@ sudo df -hT
 
 This following screenshot is an example of the output from the following disk filesystem command
 
-![efs](/labwork/efs.JPG)
+![efs](/labwork/efs.jpg)
 
 
 ## Task 5: Examining the performance behavior of your new EFS file system

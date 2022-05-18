@@ -79,7 +79,9 @@ Examining the performance by using Flexible IO; pass the line of command below
 sudo fio --name=fio-efs --filesize=10G --filename=./efs/fio-efs-test.img --bs=1M --nrfiles=1 --direct=1 --sync=0 --rw=write --iodepth=200 --ioengine=libaio
 
 
-The fio command will take 5–10 minutes to complete. The output should look like the example in the following screenshot. Make sure that you examine the output of your fio command, specifically the summary status information for this WRITE test.
+The fio command will take 5–10 minutes to complete. The output should look like the example in the following screenshot. Make sure that you examine the output of your fio command, specifically the summary status information for this WRITE test. Check the image below for more info
+
+![efs2](/labwork/efs_2.JPG)
 
 ### Monitoring performance by using Amazon CloudWatch
 Visit AWS Cloudwatch service in your account

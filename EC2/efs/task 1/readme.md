@@ -67,7 +67,9 @@ sudo df -hT
 
 This following screenshot is an example of the output from the following disk filesystem command
 
-![efs](C:/Users/DELL/Pictures/lab work/efs.JPG?raw=true "efs")
+![efs](/labwork/efs.JPG)
+
+
 ## Task 5: Examining the performance behavior of your new EFS file system
 
 Examining the performance by using Flexible IO; pass the line of command below
